@@ -1,5 +1,6 @@
 # A-Face-Recognition-System-Based-on-Eigenfaces-Method
 ## Introduction
+This was a homework for dr.jahanshahi's Advanced Programming course and mr Amini (https://github.com/M-H-Amini) designed this homework
 
 For the faces, there are 2 ways of facing! Detection and Recognition.
 In this homework, you're going to make a simple face recognition application using interesting mathematical tools! So let's start it...
